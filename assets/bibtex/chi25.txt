@@ -1,0 +1,7 @@
+@inproceedings{li2025encumbrance,
+  title={Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction},
+  author={Li, Tinghui and Velloso, Eduardo and Withana, Anusha and Sarsenbayeva, Zhanna},
+  booktitle={Proceedings of the CHI Conference on Human Factors in Computing Systems},
+  pages={1--24},
+  year={2025}
+}
