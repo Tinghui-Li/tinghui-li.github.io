@@ -1,6 +1,6 @@
 main:
   - title: "Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction"
-    authors: <strong>Tinghui Li*</strong>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva (*Corresponding Author)
+    authors: <strong>Tinghui Li*</strong>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva
     conference_short: CHI '25
     conference: CHI Conference on Human Factors in Computing Systems, 2025.
     pdf: /assets/pdf/chi25.pdf
@@ -12,7 +12,7 @@ main:
     notes:
 
   - title: "WICE: A Model to Quantify Arm Fatigue when Carrying Objects across Different Arm Locations"
-    authors: <strong>Tinghui Li*</strong>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva (*Corresponding Author)
+    authors: <strong>Tinghui Li*</strong>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva
     conference_short: Under Review
     conference: Under Review
     pdf:

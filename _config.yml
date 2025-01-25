@@ -7,9 +7,15 @@ affiliation_logo: ./assets/img/usyd-white.png
 email: tinghui.li (at) sydney.edu.au
 
 # Search Engine Optimization (SEO)
-keywords: tinghui li, li tinghui, tinghuili, litinghui
+keywords: tinghui li, li tinghui, tinghuili, litinghui, Tinghui Li
 canonical: https://tinghuili.me/
 description: Tinghui Li is a PhD canddate at the University of Sydney. Her research lies in Human-Computer Interaction, Extended Reality, and Accessibility.
+
+# The option is used to enable the Illinois template.
+enable_hopkins_logo: true
+
+# The option is used to show the last update time.
+enable_last_update: false
 
 # Links
 link_type: icon #text/icon
@@ -24,34 +30,11 @@ avatar: ./assets/img/Tinghui_Image.jpg
 favicon: ./assets/img/Tinghui-icon.jpg
 favicon_dark: ./assets/img/Tinghui-icon.jpg
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
-
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
-
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-# google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-# remote_theme: yaoyao-liu/minimal-light
-
 # The following files will be removed from the generated website.
 exclude:
+  - build.sh
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+  - CNAME

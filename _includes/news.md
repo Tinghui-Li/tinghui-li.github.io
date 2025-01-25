@@ -4,13 +4,13 @@
 <li><strong>[Jan 2025]</strong> Our paper about the effects of encumbrance and walking is conditionally accepted to CHI 2025. </li>
 <li><strong>[Jan 2025]</strong> I will attend the <a href="https://bsyiem.github.io/xr_summer_school/">Sydney XR Reserach Methods Summer School</a>. </li>
 
-<!-- <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
+<li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
 <div id="newsmore" style="display:none">
   <li><strong>[Dec 2024]</strong> My first co-supervised Honours students, Yingqi Wang and Vittoria Salim, have graduated with First-Class Honours. Congratulations, Yingqi and Vittoria! </li>
   <li><strong>[Dec 2024]</strong> I will attend UbiComp/ISWC 2024. Meet with me! </li>
   <li><strong>[Oct 2024]</strong> I will serve as a reviewer of CHI 2025. </li>
   <li><strong>[Sep 2024]</strong> I will serve as a reviewer of OzCHI 2024. </li>
   <li><strong>[Feb 2024]</strong> I will serve as a reviewer of AHs 2024. </li>
-</div> -->
+</div>
 
 </ul>
