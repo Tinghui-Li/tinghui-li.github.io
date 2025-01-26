@@ -8,7 +8,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Doctor of Philosophy, 10/2023 – 03/2027</h4>
+<h4 style="margin:0 10px 0;">Doctor of Philosophy, <span class="no-tel">10/2023 – 03/2027</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>Supervisors:</strong> Dr. Zhanna Sarsenbayeva, A/Prof. Anusha Withana, Prof. Eduardo Velloso</li>
@@ -19,7 +19,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Bachelor of Advanced Studies (Honours), 09/2022 – 09/2023</h4>
+<h4 style="margin:0 10px 0;">Bachelor of Advanced Studies (Honours), <span class="no-tel">09/2022 – 09/2023</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>Major:</strong> Computer Science (First Class Honours)</li>
@@ -29,7 +29,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Bachelor of Science, 02/2020 – 09/2022</h4>
+<h4 style="margin:0 10px 0;">Bachelor of Science, <span class="no-tel">02/2020 – 09/2022</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>Majors:</strong> Data Science, Biochemistry and Molecular Biology</li>
@@ -44,7 +44,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Casual Academic – Computer Science, 06/2023 – Present</h4>
+<h4 style="margin:0 10px 0;">Casual Academic – Computer Science, <span class="no-tel">06/2023 – Present</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li>INFO3315 Human-Computer Interaction Teaching Assistant and Tutor</li>
@@ -58,7 +58,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Data Scientist Intern, 11/2021 – 01/2022</h4>
+<h4 style="margin:0 10px 0;">Data Scientist Intern, <span class="no-tel">11/2021 – 01/2022</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li>Responsible for daily data transmission, data cleaning, and data proofreading</li>
@@ -72,7 +72,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Exchange Summer School, 07/2021 – 08/2021</h4>
+<h4 style="margin:0 10px 0;">Exchange Summer School, <span class="no-tel">07/2021 – 08/2021</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>Courses:</strong> Health Data Science and Data Analytics in Healthcare</li>
@@ -84,7 +84,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Exchange Summer School, 12/2020 – 01/2021</h4>
+<h4 style="margin:0 10px 0;">Exchange Summer School, <span class="no-tel">12/2020 – 01/2021</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>Courses:</strong> Algorithms and Analysis (89/100); Statistics of Stochastic Processes (89/100)</li>
@@ -96,7 +96,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Peer Mentor, 12/2020 – 06/2021</h4>
+<h4 style="margin:0 10px 0;">Peer Mentor, <span class="no-tel">12/2020 – 06/2021</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li>Provided practical information about the course, faculty/school, and university life</li>
