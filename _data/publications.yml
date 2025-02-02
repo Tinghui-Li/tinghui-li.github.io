@@ -3,24 +3,12 @@ main:
     authors: <strong>Tinghui Li*</strong>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva
     conference_short: CHI '25
     conference: CHI Conference on Human Factors in Computing Systems, 2025.
-    pdf: /assets/pdf/chi25.pdf
-    code:
+    pdf: /assets/pdf/chi25-409.pdf
+    supp: /assets/supp/chi25-409.html
     bibtex: /assets/bibtex/chi25.txt
     data:
     page:
     image: /assets/teaser/mr_encumbrance.png
-    notes:
-
-  - title: "WICE: A Model to Quantify Arm Fatigue when Carrying Objects across Different Arm Locations"
-    authors: <strong>Tinghui Li*</strong>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva
-    conference_short: Under Review
-    conference: Under Review
-    pdf:
-    code:
-    bibtex:
-    data:
-    page:
-    image: /assets/teaser/wice.png
     notes:
 
   - title: "Trends and Directions of Extended Reality Research in HCI: A Co-Word Analysis"
@@ -69,6 +57,18 @@ main:
     data:
     page:
     image: /assets/teaser/grand_challenges.png
+    notes:
+
+    - title: "WICE: A Model to Quantify Arm Fatigue when Carrying Objects across Different Arm Locations"
+    authors: <strong>Tinghui Li*</strong>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva
+    conference_short: Ongoing
+    conference: Ongoing
+    pdf:
+    code:
+    bibtex:
+    data:
+    page:
+    image: /assets/teaser/wice.png
     notes:
 
   - title: "Estimating the Effects of Noise on Mixed Reality Interaction"

@@ -13,7 +13,7 @@
 <ul style="margin:0 0 5px;">
   <li><strong>Supervisors:</strong> Dr. Zhanna Sarsenbayeva, A/Prof. Anusha Withana, Prof. Eduardo Velloso</li>
   <li><strong>Research Area:</strong> Human-Computer Interaction, Extended Reality, Accessibility</li>
-  <li><strong>Project Topic:</strong> Understanding and Modelling the Effects of Situational-Induced Impairments and Disabilities in Extended Reality</li>
+  <li><strong>Project Topic:</strong> Understanding and Modelling the Effects of Situationally-Induced Impairments and Disabilities in Extended Reality</li>
   <li><strong>Scholarships:</strong> Tuition Fee Scholarship, Stipend Scholarship</li>
 </ul>
 
