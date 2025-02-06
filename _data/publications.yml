@@ -5,10 +5,10 @@ main:
     conference: CHI Conference on Human Factors in Computing Systems, 2025.
     pdf: /assets/pdf/chi25-409.pdf
     supp: /assets/supp/chi25-409.html
-    bibtex: /assets/bibtex/chi25.txt
+    bibtex: /assets/bibtex/chi25-409.txt
     data:
     page:
-    image: /assets/teaser/mr_encumbrance.png
+    image: /assets/teaser/chi25-409.png
     notes:
 
   - title: "Trends and Directions of Extended Reality Research in HCI: A Co-Word Analysis"
