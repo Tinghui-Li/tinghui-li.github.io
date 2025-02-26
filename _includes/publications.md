@@ -2,8 +2,9 @@
 
 <h2 style="margin: 60px 0px 10px;">Publications</h2>
 
-<h4 style="margin:0 10px 0;">* Corresponding Author</h4>
-
+<h4 style="margin:0 10px 0;">
+    <img src="../assets/img/mail.png" alt="Corresponding Author" style="width: 15px; height: auto; vertical-align: middle;">&nbsp;&nbsp;Corresponding Author
+</h4>
 <!-- <h2 style="margin: 60px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Qi2PSmEAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2> -->
 
 <div class="publications">
@@ -31,6 +32,9 @@
       {% endif %}
       {% if link.supp %} 
       <a href="{{ link.supp }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Supp</a>
+      {% endif %}
+      {% if link.video %} 
+      <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
       {% endif %}
       {% if link.page %} 
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>

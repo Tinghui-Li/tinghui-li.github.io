@@ -49,7 +49,7 @@
 <ul style="margin:0 0 5px;">
   <li>INFO3315 Human-Computer Interaction Teaching Assistant and Tutor</li>
   <li>COMP4427/5427 Usability Engineering Teaching Assistant and Tutor</li>
-  <li>COMP5703/DATA5703/CSEC5703 Group-Based Capstone Project Tutor</li>
+  <li>COMP5703/DATA5703/CSEC5703 Group-Based Capstone Project Tutor and Client</li>
 </ul>
 
 <div style="height: 10px;"></div>
@@ -107,6 +107,7 @@
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
 
 <ul style="margin:0 0 5px;">
+  <li>2025 University of Sydney CS HDR Research Support Fund (A$5,000)</li>
   <li>2023 – 2027 University of Sydney Faculty of Engineering Research Stipend Scholarship (A$40,109 p.a.)</li>
   <li>2023 – 2027 University of Sydney International Tuition Fee Scholarship</li>
   <li>2023 University of Sydney Engineering Vacation Research Internship Program Scholarship (A$3,000)</li>
@@ -118,10 +119,11 @@
 <h2 style="margin: 60px 0px 10px;">Supervision</h2>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>Ruilin Liu:</strong> 2025 Bachelor of Advanced Studies (Honours), USYD - Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), USYD - Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>:2024 Bachelor of Advanced Computing (First-Class Honours), USYD - Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/jennifer-lai-21926a293/"><autocolor><strong><u>Jennifer Lai</u></strong></autocolor></a>: 2023 Summer Vacation Research Intern, USYD - Co-supervisor</li>
+  <li><strong>Lefan Lai:</strong> 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
+  <li><strong>Ruilin Liu:</strong> 2025 Bachelor of Advanced Studies (Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>:2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/jennifer-lai-21926a293/"><autocolor><strong><u>Jennifer Lai</u></strong></autocolor></a>: 2023 Summer Vacation Research Intern, University of Sydney, Co-supervisor</li>
 </ul>
 
 <h2 style="margin: 60px 0px 10px;">Activities</h2>
