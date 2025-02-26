@@ -4,7 +4,6 @@ main:
     conference_short: CHI '25
     conference: CHI Conference on Human Factors in Computing Systems, 2025.
     pdf: /assets/pdf/chi25-409.pdf
-    video: /assets/video/chi25-409.mp4
     supp: /assets/supp/chi25-409.html
     bibtex: /assets/bibtex/chi25-409.txt
     data: 
