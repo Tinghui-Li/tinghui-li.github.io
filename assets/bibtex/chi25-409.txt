@@ -1,4 +1,4 @@
-@inproceedings{10.1145/3706598.3713492,
+@inproceedings{li2025encumbrance,
 author = {Li, Tinghui and Velloso, Eduardo and Withana, Anusha and Sarsenbayeva, Zhanna},
 title = {Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction},
 year = {2025},

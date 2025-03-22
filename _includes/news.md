@@ -1,6 +1,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Apr 2025]</strong> I will be vising Keio University in Japan from April to May 2025. Let's meet up in Japan! </li>
+<li><strong>[Apr 2025]</strong> I will be attending the CHI 2025 conference. Meet with me! </li>
 <li><strong>[Jan 2025]</strong> Our paper about the effects of encumbrance and walking is conditionally accepted to CHI 2025. </li>
 <li><strong>[Jan 2025]</strong> I will attend the <a href="https://bsyiem.github.io/xr_summer_school/">Sydney XR Reserach Methods Summer School</a>. </li>
 

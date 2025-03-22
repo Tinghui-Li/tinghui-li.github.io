@@ -1,0 +1,12 @@
+@misc{li2025tagnn,
+      title={TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction}, 
+      author={Li, Tinghui and Somarathne, Pamuditha and Sarsenbayeva, Zhanna and Withana, Anusha},
+      year={2025},
+      eprint={2503.13034},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2503.13034}, 
+      doi = {10.48550/arXiv.2503.13034}, 
+      abstract = {Continuous prediction of finger joint movement using historical joint positions/rotations is vital in a multitude of applications, especially related to virtual reality, computer graphics, robotics, and rehabilitation. However, finger motions are highly articulated with multiple degrees of freedom, making them significantly harder to model and predict. To address this challenge, we propose a physics-inspired time-agnostic graph neural network (TA-GNN) to accurately predict human finger motions. The proposed encoder comprises a kinematic feature extractor to generate filtered velocity and acceleration and a physics-based encoder that follows linear kinematics. The model is designed to be prediction-time-agnostic so that it can seamlessly provide continuous predictions. The graph-based decoder for learning the topological motion between finger joints is designed to address the higher degree articulation of fingers. We show the superiority of our model performance in virtual reality context. This novel approach enhances finger tracking without additional sensors, enabling predictive interactions such as haptic re-targeting and improving predictive rendering quality.},
+      keywords = {Virtual Reality, Graph-Based Machine Learning, Motion Prediction, Hand Tracking Technology}     
+}

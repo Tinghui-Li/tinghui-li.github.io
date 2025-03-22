@@ -9,7 +9,7 @@ email: tinghui.li (at) sydney.edu.au
 # Search Engine Optimization (SEO)
 keywords: tinghui li, li tinghui, tinghuili, litinghui, Tinghui Li
 canonical: https://tinghuili.me/
-description: Tinghui Li is a PhD canddate at the University of Sydney. Her research lies in Human-Computer Interaction, Extended Reality, and Accessibility.
+description: Tinghui Li is a PhD candidate at the University of Sydney. Her research lies in Human-Computer Interaction, Extended Reality, and Accessibility.
 
 # The option is used to enable the Illinois template.
 enable_hopkins_logo: true
@@ -19,7 +19,7 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar:
+google_scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=1lnD4bEAAAAJ
 cv_link: ../assets/pdf/CV_Tinghui_Li.pdf
 github_link:
 linkedin: https://www.linkedin.com/in/tinghui-li/
