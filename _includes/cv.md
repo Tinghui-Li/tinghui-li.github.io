@@ -120,8 +120,8 @@
 <h2 style="margin: 60px 0px 10px;">Talks</h2>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>[2024]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://lclab.org/about"><autocolor><strong><u>Department of Information and Computer Science</u></strong></autocolor></a>, Faculty of Science and Technology, Keio University, Japan</li>
-  <li><strong>[2024]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="http://embodiedmedia.org "><autocolor><strong><u>Graduate School of Media Design</u></strong></autocolor></a>, Keio University, Japan</li>
+  <li><strong>[2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://lclab.org/about"><autocolor><strong><u>Department of Information and Computer Science</u></strong></autocolor></a>, Faculty of Science and Technology, Keio University, Japan</li>
+  <li><strong>[2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="http://embodiedmedia.org "><autocolor><strong><u>Graduate School of Media Design</u></strong></autocolor></a>, Keio University, Japan</li>
 </ul>
 
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
