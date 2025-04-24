@@ -4,10 +4,11 @@ main:
     conference_short: CHI '25 Honorable Mention
     conference: CHI Conference on Human Factors in Computing Systems, 2025.
     pdf: /assets/pdf/chi25-409.pdf
+    video: https://youtu.be/e7ok95U8rzw?si=JW5E75BuhfNexXg2
     supp: /assets/supp/chi25-409.html
     bibtex: /assets/bibtex/chi25-409.txt
     data:
-    page:
+    page: https://doi.org/10.1145/3706598.3713492
     image: /assets/teaser/chi25-409.png
     notes:
 
@@ -33,6 +34,18 @@ main:
     data:
     page:
     image: /assets/teaser/wice.png
+    notes:
+
+  - title: "Estimating the Effects of Ambient Noise on Mixed Reality Interaction"
+    authors: <strong>Tinghui Li</strong>, Danyang Peng, Eduardo Velloso, Anusha Withana, Kouta Minamizawa, Zhanna Sarsenbayeva
+    conference_short: Under Review
+    conference: Under Review
+    pdf:
+    code:
+    bibtex:
+    data:
+    page:
+    image: /assets/teaser/empty.png
     notes:
 
   - title: "Trends and Directions of Extended Reality Research in HCI: A Co-Word Analysis"
@@ -71,30 +84,6 @@ main:
     image: /assets/teaser/confined_space.png
     notes:
 
-  - title: "Distributed Mixed Reality Collaboration: From Vision to Mission"
-    authors: Jens Emil Sloth Grønbæk, Adélaïde Genay, Andrew Irlitti, Brandon Victor Syiem, Jarrod Knibbe, Emily Wong, <strong>Tinghui Li</strong>, Zhongyi Bai, Eduardo Velloso
-    conference_short: Under Review
-    conference: Under Review
-    pdf:
-    code:
-    bibtex:
-    data:
-    page:
-    image: /assets/teaser/grand_challenges.png
-    notes:
-
-  - title: "Estimating the Effects of Noise on Mixed Reality Interaction"
-    authors: <strong>Tinghui Li</strong>, Danyang Peng, Zhanna Sarsenbayeva
-    conference_short: Ongoing
-    conference: Ongoing
-    pdf:
-    code:
-    bibtex:
-    data:
-    page:
-    image: /assets/teaser/empty.png
-    notes:
-
   - title: "Optimizing VR Safety in Confined Spaces with AI Driven Small Objects Boundary System"
     authors: <strong>Tinghui Li</strong>, Vittoria Salim, Zhanna Sarsenbayeva
     conference_short: Ongoing
@@ -105,4 +94,16 @@ main:
     data:
     page:
     image: /assets/teaser/boundary.png
+    notes:
+
+  - title: "Estimating the Effects of Ambient Light on Mixed Reality Interaction"
+    authors: Ruilin Liu, <strong>Tinghui Li</strong>, Zhanna Sarsenbayeva
+    conference_short: Ongoing
+    conference: Ongoing
+    pdf:
+    code:
+    bibtex:
+    data:
+    page:
+    image: /assets/teaser/empty.png
     notes:
