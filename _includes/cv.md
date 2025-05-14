@@ -54,6 +54,18 @@
 
 <div style="height: 20px;"></div>
 
+<h3 style="margin:0 10px 0;">School of Information Technology, University of Sydney</h3>
+
+<div style="height: 15px;"></div>
+
+<h4 style="margin:0 10px 0;">Guest Lecturer, <span class="no-tel">05/2025</span></h4>
+
+<ul style="margin:0 0 5px;">
+  <li>COMP4427/5427 Usability Engineering Guest Lecturer</li>
+</ul>
+
+<div style="height: 20px;"></div>
+
 <h3 style="margin:0 10px 0;">Graduate School of Media Design, Keio University</h3>
 
 <div style="height: 15px;"></div>
@@ -61,8 +73,8 @@
 <h4 style="margin:0 10px 0;">Visiting Researcher, <span class="no-tel">04/2025 – 05/2025</span></h4>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>Supervisor:</strong> Prof. Kouta Minamizawa, Assist. Prof. Giulia Barbareschi</li>
-  <li><strong>Project:</strong> Estimating the Effects of Noise on Mixed Reality Interaction</li>
+  <li><strong>Supervisor:</strong> Prof. Kouta Minamizawa</li>
+  <li><strong>Project:</strong> Estimating the Effects of Ambient Noise on Mixed Reality Interaction</li>
 </ul>
 
 <div style="height: 20px;"></div>

@@ -19,6 +19,18 @@
   <li>COMP5703/DATA5703/CSEC5703 Group-Based Capstone Project Client: 2025 S1</li>
 </ul>
 
+<div style="height: 10px;"></div>
+
+<h3 style="margin:0 10px 0;">School of Information Technology, University of Sydney</h3>
+
+<div style="height: 10px;"></div>
+
+<h4 style="margin:0 10px 0;">Guest Lecturer, <span class="no-tel">05/2025</span></h4>
+
+<ul style="margin:0 0 5px;">
+  <li>COMP4427/5427 Usability Engineering Guest Lecturer</li>
+</ul>
+
 <h2 style="margin: 60px 0px 10px;">Supervision</h2>
 
 <ul style="margin:0 0 5px;">
