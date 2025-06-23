@@ -28,7 +28,7 @@ main:
     authors: "<strong>Tinghui Li </strong> <img src='/assets/img/mail.png' alt='Corresponding Author' style='width: 10px; height: 10px; vertical-align: super;'>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva"
     conference_short: Under Review
     conference: Under Review
-    pdf:
+    pdf: /assets/pdf/uist25-wice.pdf
     code:
     bibtex:
     data:
@@ -72,8 +72,8 @@ main:
     image: /assets/teaser/neverlagging.png
     notes:
 
-  - title: "Exploring Virtual Reality Interaction in Confined Spaces: A Third-Person Perspective Solution"
-    authors: Yingqi Wang, <strong>Tinghui Li</strong>, Zhanna Sarsenbayeva
+  - title: "SOBO: An AI-Driven Small-Object Boundary Detection Framework for Optimizing VR Safety in Confined Spaces"
+    authors: <strong>Tinghui Li</strong>, Guangzheng Zhang, Fan Wu, Kaihang Su, Nan Jiang, Zhaoliang Li, Zhongxu Wang, Zhanna Sarsenbayeva
     conference_short: Under Review
     conference: Under Review
     pdf:
@@ -81,11 +81,11 @@ main:
     bibtex:
     data:
     page:
-    image: /assets/teaser/confined_space.png
+    image: /assets/teaser/sobo.png
     notes:
 
-  - title: "Optimizing VR Safety in Confined Spaces with AI Driven Small Objects Boundary System"
-    authors: <strong>Tinghui Li</strong>, Vittoria Salim, Zhanna Sarsenbayeva
+  - title: "Hierarchical Quantification of Factors Underlying the Effects of Walking on Mixed Reality Interaction"
+    authors: "<strong>Tinghui Li </strong> <img src='/assets/img/mail.png' alt='Corresponding Author' style='width: 10px; height: 10px; vertical-align: super;'>, Eduardo Velloso, Anusha Withana, Zhanna Sarsenbayeva"
     conference_short: Ongoing
     conference: Ongoing
     pdf:
@@ -93,17 +93,5 @@ main:
     bibtex:
     data:
     page:
-    image: /assets/teaser/boundary.png
-    notes:
-
-  - title: "Estimating the Effects of Ambient Light on Mixed Reality Interaction"
-    authors: Ruilin Liu, <strong>Tinghui Li</strong>, Zhanna Sarsenbayeva
-    conference_short: Ongoing
-    conference: Ongoing
-    pdf:
-    code:
-    bibtex:
-    data:
-    page:
-    image: /assets/teaser/empty.png
+    image: /assets/teaser/walking.png
     notes:

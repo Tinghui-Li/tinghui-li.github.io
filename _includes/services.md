@@ -10,6 +10,7 @@
 <h2 style="margin: 60px 0px 10px;">Activities</h2>
 
 <ul style="margin:0 0 5px;">
+  <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
   <li>[Reviewer] CHI conference on Human Factors in Computing Systems (<a href="https://chi2025.acm.org/">CHI ’25</a>)</li>
   <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2024/">OzCHI ’24</a>)</li>
   <li>[Reviewer] The Augmented Humans (AHs) International Conference (<a href="https://augmented-humans.org/">AHs ’24</a>)</li>

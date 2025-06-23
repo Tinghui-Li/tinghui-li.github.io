@@ -115,20 +115,6 @@
   <li><strong>Courses:</strong> Algorithms and Analysis (89/100); Statistics of Stochastic Processes (89/100)</li>
 </ul>
 
-<div style="height: 20px;"></div>
-
-<h3 style="margin:0 10px 0;">Faculty of Science, University of Sydney</h3>
-
-<div style="height: 15px;"></div>
-
-<h4 style="margin:0 10px 0;">Peer Mentor, <span class="no-tel">12/2020 – 06/2021</span></h4>
-
-<ul style="margin:0 0 5px;">
-  <li>Provided practical information about the course, faculty/school, and university life</li>
-  <li>Directed new students to relevant support services and resources</li>
-  <li>Shared knowledge and experiences as a student</li>
-</ul>
-
 <h2 style="margin: 60px 0px 10px;">Talks</h2>
 
 <ul style="margin:0 0 5px;">
@@ -139,6 +125,7 @@
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
 
 <ul style="margin:0 0 5px;">
+  <li>2025 Deputy Vice-Chancellor Research Impact Proof-of-Concept Fund (A$79,874)</li>
   <li>2025 University of Sydney CS HDR Research Support Fund (A$5,000)</li>
   <li>2023 – 2027 University of Sydney Faculty of Engineering Research Stipend Scholarship (A$40,109 p.a.)</li>
   <li>2023 – 2027 University of Sydney International Tuition Fee Scholarship</li>
@@ -151,7 +138,6 @@
 <h2 style="margin: 60px 0px 10px;">Supervision</h2>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.linkedin.com/in/zheyuan-kuang-4928b8306/"><autocolor><strong><u>Zheyuan Kuang</u></strong></autocolor></a>: 2025 Master of Philosophy (Engineering), University of Sydney, Co-supervisor</li>  
   <li><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
   <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (Honours), University of Sydney, Co-supervisor</li>
   <li><strong>Ruilin Liu</strong>: 2025 Bachelor of Advanced Studies (Honours), University of Sydney, Co-supervisor</li>
@@ -163,6 +149,7 @@
 <h2 style="margin: 60px 0px 10px;">Activities</h2>
 
 <ul style="margin:0 0 5px;">
+  <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
   <li>[Reviewer] CHI conference on Human Factors in Computing Systems (<a href="https://chi2025.acm.org/">CHI ’25</a>)</li>
   <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2024/">OzCHI ’24</a>)</li>
   <li>[Reviewer] The Augmented Humans (AHs) International Conference (<a href="https://augmented-humans.org/">AHs ’24</a>)</li>
