@@ -1,0 +1,15 @@
+@inproceedings{li2025wice,
+author = {Li, Tinghui and Velloso, Eduardo and Withana, Anusha and Sarsenbayeva, Zhanna},
+title = {Weight-Induced Consumed Endurance (WICE): A Model to Quantify Shoulder Fatigue with Weighted Objects},
+year = {2025},
+isbn = {979-8-4007-2037-6/2025/09},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3746059.3747745},
+doi = {10.1145/3746059.3747745},
+abstract = {Fatigue is a major challenge in mid-air interactions, often resulting in a sensation of heaviness---particularly when users carry weighted objects on their arms. Existing models for characterising shoulder fatigue were primarily developed for bare-hand scenarios, limiting their applicability in situations involving encumbrance. In this paper, we introduce Weight-Induced Consumed Endurance (WICE), a novel model that accurately estimates shoulder fatigue when additional weight is attached at various locations on the arm. WICE enhances the calculation of instantaneous shoulder torque by incorporating information about the attached weight, integrates individual arm mass for more personalised fatigue estimation, and uses a Bayesian framework to simulate the distribution of shoulder fatigue. Our evaluation shows that WICE strongly correlates with both experimentally measured endurance time and subjective Borg CR10 ratings, demonstrating its reliability as an objective fatigue metric in both encumbered and no-weight conditions.  We further demonstrate how WICE can be applied to examine the effects of controller and haptic devices on user fatigue, exploring endurance differences across varying weight levels and attachment points. WICE provides a foundation for developing fatigue-aware systems that can sense and adapt encumbrance, allowing for more tailored ergonomic MR interactions.},
+booktitle = {The 38th Annual ACM Symposium on User Interface Software and Technology},
+keywords = {Endurance, Consumed Endurance, Fatigue, Ergonomics, Encumbrance, Mid-Air Interactions, Mixed Reality, HCI theory, concepts and models, Systems and tools for interaction design},
+location = {Busan, Republic of Korea},
+series = {UIST '25}
+}
