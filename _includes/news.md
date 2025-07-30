@@ -2,7 +2,7 @@
 
 <ul>
 <!-- <li><strong>[Apr 2025]</strong> I will be giving a talk at Keio University. </li> -->
-<li><strong>[Jul 2025]</strong> Our paper about quantifying arm fatigue while carrying objects is conditionally accepted at UIST 2025. </li>
+<li><strong>[Jul 2025]</strong> Our paper about quantifying arm fatigue while carrying objects is accepted at UIST 2025. </li>
 <li><strong>[Apr 2025]</strong> My first paper <a href="../assets/pdf/chi25-409.pdf"><autocolor><u>"The Effects of Encumbrance and Walking on Mixed Reality Interaction"</u></autocolor></a> has been awarded <strong>Honorable Mention</strong> recognition at CHI'25! <img src="../assets/img/Honorable_Mention.png" alt="icon" style="width:15px; height:15px; vertical-align:middle;"></li>
 <li><strong>[Apr 2025]</strong> I will be vising Keio University in Japan from April to May 2025. Let's meet up in Japan! </li>
 <li><strong>[Apr 2025]</strong> I will be attending the CHI 2025 conference. Meet with me! </li>
