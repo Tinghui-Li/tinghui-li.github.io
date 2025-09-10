@@ -12,10 +12,10 @@
 
 <ul style="margin:0 0 5px;">
   <li>INFO3315 Human-Computer Interaction Teaching Assistant: 2024 S2</li>
-  <li>INFO3315 Human-Computer Interaction Tutor: 2023 S2, 2024 S2</li>
+  <li>INFO3315 Human-Computer Interaction Tutor: 2023 S2, 2024 S2, 2025 S2</li>
   <li>COMP4427/5427 Usability Engineering Teaching Assistant: 2024 S1, 2025 S1</li>
   <li>COMP4427/5427 Usability Engineering Tutor: 2024 S1, 2025 S1</li>
-  <li>COMP5703/DATA5703/CSEC5703 Group-Based Capstone Project Tutor: 2024 S1, 2024 S2, 2025 S1</li>
+  <li>COMP5703/DATA5703/CSEC5703 Group-Based Capstone Project Tutor: 2024 S1, 2024 S2, 2025 S1, 2025 S2</li>
   <li>COMP5703/DATA5703/CSEC5703 Group-Based Capstone Project Client: 2025 S1</li>
 </ul>
 

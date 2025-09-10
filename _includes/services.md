@@ -11,9 +11,12 @@
 
 <ul style="margin:0 0 5px;">
   <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
-  <li>[Reviewer] CHI conference on Human Factors in Computing Systems (<a href="https://chi2025.acm.org/">CHI ’25</a>)</li>
-  <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2024/">OzCHI ’24</a>)</li>
-  <li>[Reviewer] The Augmented Humans (AHs) International Conference (<a href="https://augmented-humans.org/">AHs ’24</a>)</li>
-  <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://ismar2023.vgtc.org/">ISMAR ’23</a>)</li>
-  <li>[Student Volunteer] International Conference on Very Large Databases (<a href="https://vldb.org/2022/">VLDB ’22</a>)</li>
+  <li>[Reviewer] International Conference on Extended Reality (<a href="https://icxr.net/2025/">ICXR '25</a>)</li>
+  <li>[Reviewer] CHI conference on Human Factors in Computing Systems (<a href="https://chi2025.acm.org/">CHI '25</a>)</li>
+  <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2025/">OzCHI '25</a>)</li>
+  <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2024/">OzCHI '24</a>)</li>
+  <li>[Reviewer] The Augmented Humans (AHs) International Conference (<a href="https://augmented-humans.org/">AHs '24</a>)</li>
+  <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://www.ieeeismar.net/2025/">ISMAR '25</a>)</li>
+  <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://ismar2023.vgtc.org/">ISMAR '23</a>)</li>
+  <li>[Student Volunteer] International Conference on Very Large Databases (<a href="https://vldb.org/2022/">VLDB '22</a>)</li>
 </ul>

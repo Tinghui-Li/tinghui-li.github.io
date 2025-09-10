@@ -126,6 +126,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>2025 Deputy Vice-Chancellor Research Impact Proof-of-Concept Fund (A$79,874)</li>
+  <li>2025 University of Sydney Faculty HDR Grant (A$800)</li>
   <li>2025 University of Sydney CS HDR Research Support Fund (A$5,000)</li>
   <li>2023 – 2027 University of Sydney Faculty of Engineering Research Stipend Scholarship (A$40,109 p.a.)</li>
   <li>2023 – 2027 University of Sydney International Tuition Fee Scholarship</li>
@@ -150,9 +151,12 @@
 
 <ul style="margin:0 0 5px;">
   <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
-  <li>[Reviewer] CHI conference on Human Factors in Computing Systems (<a href="https://chi2025.acm.org/">CHI ’25</a>)</li>
-  <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2024/">OzCHI ’24</a>)</li>
-  <li>[Reviewer] The Augmented Humans (AHs) International Conference (<a href="https://augmented-humans.org/">AHs ’24</a>)</li>
-  <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://ismar2023.vgtc.org/">ISMAR ’23</a>)</li>
-  <li>[Student Volunteer] International Conference on Very Large Databases (<a href="https://vldb.org/2022/">VLDB ’22</a>)</li>
+  <li>[Reviewer] International Conference on Extended Reality (<a href="https://icxr.net/2025/">ICXR '25</a>)</li>
+  <li>[Reviewer] CHI conference on Human Factors in Computing Systems (<a href="https://chi2025.acm.org/">CHI '25</a>)</li>
+  <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2025/">OzCHI '25</a>)</li>
+  <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2024/">OzCHI '24</a>)</li>
+  <li>[Reviewer] The Augmented Humans (AHs) International Conference (<a href="https://augmented-humans.org/">AHs '24</a>)</li>
+  <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://www.ieeeismar.net/2025/">ISMAR '25</a>)</li>
+  <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://ismar2023.vgtc.org/">ISMAR '23</a>)</li>
+  <li>[Student Volunteer] International Conference on Very Large Databases (<a href="https://vldb.org/2022/">VLDB '22</a>)</li>
 </ul>
