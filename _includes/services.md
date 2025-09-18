@@ -3,8 +3,10 @@
 <h2 style="margin: 60px 0px 10px;">Talks</h2>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>[2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://lclab.org/about"><autocolor><strong><u>Department of Information and Computer Science</u></strong></autocolor></a>, Faculty of Science and Technology, Keio University, Japan</li>
-  <li><strong>[2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="http://embodiedmedia.org "><autocolor><strong><u>Graduate School of Media Design</u></strong></autocolor></a>, Keio University, Japan</li>
+  <li><strong>[Octorber 2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://make.kaist.ac.kr/"><autocolor><strong><u>Make Lab</u></strong></autocolor></a>, Department of Industrial Design, Korea Advanced Institute of Science & Technology (KAIST), South Korea</li>
+  <li><strong>[Octorber 2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://sites.google.com/view/kaist-witlab/"><autocolor><strong><u>Wearable and Interactive Technology Lab</u></strong></autocolor></a>, School of Electrical Engineering, Korea Advanced Institute of Science & Technology (KAIST), South Korea</li>
+  <li><strong>[April 2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://lclab.org/about"><autocolor><strong><u>Department of Information and Computer Science</u></strong></autocolor></a>, Faculty of Science and Technology, Keio University, Japan</li>
+  <li><strong>[April 2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="http://embodiedmedia.org "><autocolor><strong><u>Graduate School of Media Design</u></strong></autocolor></a>, Keio University, Japan</li>
 </ul>
 
 <h2 style="margin: 60px 0px 10px;">Activities</h2>
