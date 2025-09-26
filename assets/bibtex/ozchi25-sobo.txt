@@ -1,0 +1,15 @@
+@inproceedings{li2025sobo,
+author = {Li, Tinghui and Zhang, Guangzheng and Sarsenbayeva, Zhanna},
+title = {SOBO: An AI-Driven Small Object Boundary Detection Framework for Optimising VR Safety in Confined Spaces},
+year = {2025},
+isbn = {979-8-4007-2016-1/25/11},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3764687.3769913},
+doi = {10.1145/3764687.3769913},
+abstract = {Most traditional virtual reality systems relied on static, predefined room-scale boundaries to prevent collisions. However, such systems often overlook smaller objects in the environment, such as water bottles on the desktop, the screen monitor, and the corners of the desk. We propose an AI-driven small object boundary detection and optimization system (SOBO), which integrates visual, audio, and haptic feedback to increase user awareness. This system incorporated YOLOv8-L object detection, image homography transformation to real space based on a single calibration, real-time object size estimation, and a UDP communication mechanism. It accurately projected the identified small objects into the VR scene and dynamically generated virtual boundaries. SOBO provides a new paradigm for VR safety interaction in high-density environments and establishes a foundation framework for integrating environmental awareness into immersive experiences.},
+booktitle = {The 37th Australian Conference on Human-Computer Interaction},
+keywords = {Virtual reality, Systems and tools for interaction design, Accessibility technologies, Accessibility systems and tools, Boundary Detection, Confined Spaces, Situational Impairment},
+location = {Sydney, Australia},
+series = {OzCHI '25}
+}
