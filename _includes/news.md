@@ -1,6 +1,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Sep 2025]</strong> Our paper about perceiving emotions through virtual avatar representation is conditionally accepted to ICXR'25. </li>
+<li><strong>[Sep 2025]</strong> I have three first-author papers and one second-author paper accepted to OzCHI'25. </li>
 <li><strong>[Sep 2025]</strong> Our paper about quantifying the effects of ambient noise in mixed reality is conditionally accepted at IMWUT (UbiComp/ISWC 2026). </li>
 <li><strong>[Sep 2025]</strong> I will be visiting Korea Advanced Institute of Science & Technology (KAIST) to give a talk about my PhD research. Meet with me! </li>
 <li><strong>[Sep 2025]</strong> I will be attending UIST'25 and ISMAR'25 in Korea. Meet with me! </li>
