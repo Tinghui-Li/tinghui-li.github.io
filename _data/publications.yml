@@ -33,7 +33,7 @@ main:
     conference: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
     pdf:
     code:
-    bibtex:
+    bibtex: /assets/bibtex/imwut-noise.txt
     data:
     page:
     image: /assets/teaser/ambient_noise.png
@@ -81,7 +81,7 @@ main:
     conference: The 37th Australian Conference on Human-Computer Interaction
     pdf:
     code:
-    bibtex:
+    bibtex: /assets/bibtex/ozchi25-light.txt
     data:
     page:
     image: /assets/teaser/ambient_light_review.png

@@ -1,0 +1,12 @@
+@inproceedings{li2025noise,
+author = {Li, Tinghui and Peng, Danyang and Velloso, Eduardo and Withana, Anusha and Minamizawa, Kouta and Sarsenbayeva, Zhanna},
+title = {Estimating the Effects of Ambient Noise on Mixed Reality Interaction},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3770715},
+doi = {10.1145/3770715},
+abstract = {Mixed Reality devices, now as ubiquitous as smartphones and laptops, are increasingly utilised in everyday scenarios. However, real‑world use often involves challenging environmental factors such as ambient noise, which can adversely affect user interaction with MR systems. This study investigates the impact of three types of ambient noise—music, urban noise and speech—on MR interaction. We constructed Bayesian regression models to assess movement time, pointing offset, error rate and throughput on target acquisition task, and throughput, uncorrected error rate, corrected error rate, and words per minute on text entry task under different noise conditions. Our results indicated that meaningless speech reduced text‑entry throughput by 5.36\%, fast‑tempo music increased movement time by 4.44\%, slow‑tempo music increased pointing offset by 4.07\%, urban indoor noise increased typing throughput by 3.33\% and urban outdoor noise decreased throughput by 2.74\%. These findings demonstrate how ambient noise affects MR performance, advancing our understanding of situational impairments in MR. We propose strategies for designing noise‑resilient MR interfaces to enhance usability in dynamic environments.},
+booktitle = {The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)},
+keywords = {Mixed / augmented reality, Empirical studies in HCI, Empirical studies in accessibility, Situational Impairments, Ambient Noise, Fitts's Law, Text Entry}
+}
