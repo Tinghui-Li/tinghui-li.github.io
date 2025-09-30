@@ -1,0 +1,15 @@
+@inproceedings{li2025coword,
+author = {Li, Tinghui and Syiem, Brandon and van Berkel, Niels and Kim, Juno and Withana, Anusha and Sarsenbayeva, Zhanna},
+title = {Trends and Directions of Extended Reality Research in HCI: A Co-Word Analysis},
+year = {2025},
+isbn = {979-8-4007-2016-1/25/11},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3764687.3769922},
+doi = {10.1145/3764687.3769922},
+abstract = {Extended Reality (XR) has generated significant research interest and applied creativity within the field of HCI. This research interest has now accumulated a large volume of literature spanning several decades. To understand the evolution of the technology and its use in this field, we used co-word analysis to visualise and assess the progression of XR research within HCI from 2005-2024. The analysis involved hierarchical clustering, strategic diagram, and network core-periphery analysis performed on 1001 papers published at OzCHI, CHI, TOCHI, and IJHCS with their respective keywords. Based on our quantitative methodological approach, we identify motor themes and the progression of XR research. The results indicate a shift in research topics toward user-centred design, including real-time communication, user experience, and meaningful shared activities, with increasing focus on accessibility and the development of new XR technologies as emerging areas of interest. Our contributions provide a roadmap for XR research in HCI. },
+booktitle = {The 37th Australian Conference on Human-Computer Interaction},
+keywords = {Co-Word Analysis, Literature Review, Virtual reality, Mixed / augmented reality},
+location = {Sydney, Australia},
+series = {OzCHI '25}
+}

@@ -118,8 +118,10 @@
 <h2 style="margin: 60px 0px 10px;">Talks</h2>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>[2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://lclab.org/about"><autocolor><strong><u>Department of Information and Computer Science</u></strong></autocolor></a>, Faculty of Science and Technology, Keio University, Japan</li>
-  <li><strong>[2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="http://embodiedmedia.org "><autocolor><strong><u>Graduate School of Media Design</u></strong></autocolor></a>, Keio University, Japan</li>
+  <li><strong>[Octorber 2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://make.kaist.ac.kr/"><autocolor><strong><u>Make Lab</u></strong></autocolor></a>, Department of Industrial Design, Korea Advanced Institute of Science & Technology (KAIST), South Korea</li>
+  <li><strong>[Octorber 2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://sites.google.com/view/kaist-witlab/"><autocolor><strong><u>Wearable and Interactive Technology Lab</u></strong></autocolor></a>, School of Electrical Engineering, Korea Advanced Institute of Science & Technology (KAIST), South Korea</li>
+  <li><strong>[April 2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="https://lclab.org/about"><autocolor><strong><u>Department of Information and Computer Science</u></strong></autocolor></a>, Faculty of Science and Technology, Keio University, Japan</li>
+  <li><strong>[April 2025]</strong> "Understanding and Modelling the Effects of Situational Impairments on Mixed Reality Interaction", <a href="http://embodiedmedia.org "><autocolor><strong><u>Graduate School of Media Design</u></strong></autocolor></a>, Keio University, Japan</li>
 </ul>
 
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
@@ -141,7 +143,7 @@
 <ul style="margin:0 0 5px;">
   <li><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
   <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (Honours), University of Sydney, Co-supervisor</li>
-  <li><strong>Ruilin Liu</strong>: 2025 Bachelor of Advanced Studies (Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>:2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/jennifer-lai-21926a293/"><autocolor><strong><u>Jennifer Lai</u></strong></autocolor></a>: 2023 Summer Vacation Research Intern, University of Sydney, Co-supervisor</li>

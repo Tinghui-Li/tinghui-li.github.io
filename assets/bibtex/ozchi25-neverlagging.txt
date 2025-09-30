@@ -1,0 +1,15 @@
+@inproceedings{li2025neverlagging,
+author = {Li, Tinghui and Somarathne, Pamuditha and Sarsenbayeva, Zhanna and Withana, Anusha},
+title = {NeverLagging: Enhancing Virtual Reality Finger Tracking with a Physics-Inspired Time-Agnostic Graph Neural Network},
+year = {2025},
+isbn = {979-8-4007-2016-1/25/11},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3764687.3769915},
+doi = {10.1145/3764687.3769915},
+abstract = {Virtual reality enables immersive interactions through precise finger tracking, but challenges like tracking errors and occlusions, especially when holding objects, limit its effectiveness. Current systems primarily rely on headset-mounted cameras, which suffer from delays and inaccuracies, impacting user experience. Human motion prediction has been widely applied to address tracking issues, without requiring additional sensors or cameras that occupy space and limit user interaction, which remains underexplored in finger tracking for VR. To address these issues, we propose a graph neural network model, TA-GNN, that improves tracking accuracy and mitigates occlusions through motion prediction. We show the superiority of our model performance in virtual reality context. This novel approach enhances finger tracking without additional sensors, enabling predictive interactions such as haptic re-targeting and improving predictive rendering quality.},
+booktitle = {The 37th Australian Conference on Human-Computer Interaction},
+keywords = {Virtual Reality, Virtual Environment, Finger Motion Prediction, Occlusion},
+location = {Sydney, Australia},
+series = {OzCHI '25}
+}
