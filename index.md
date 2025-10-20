@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 80px 0px 10px;"></h2>
 
-I am currently a second-year PhD student at [the University of Sydney](https://www.sydney.edu.au/), primarly supervised by [Dr. Zhanna Sarsenbayeva](https://zhannina.github.io/about/), and co-supervised by [Prof. Eduardo Velloso](https://www.eduardovelloso.com/) and [Associate Prof. Anusha Withana](https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en&oi=ao). Prior to this, I obtained my bachelor's degree with first-class honours from [the University of Sydney](https://www.sydney.edu.au/), supervised by [Associate Prof. Anusha Withana](https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en&oi=ao).
+I am currently a third-year PhD student at [the University of Sydney](https://www.sydney.edu.au/), primarly supervised by [Dr. Zhanna Sarsenbayeva](https://zhannina.github.io/about/), and co-supervised by [Prof. Eduardo Velloso](https://www.eduardovelloso.com/) and [Associate Prof. Anusha Withana](https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en&oi=ao). Prior to this, I obtained my bachelor's degree with first-class honours from [the University of Sydney](https://www.sydney.edu.au/), supervised by [Associate Prof. Anusha Withana](https://scholar.google.com/citations?user=y17ckyIAAAAJ&hl=en&oi=ao).
 
 My research interests include **Human-Computer Interaction**, **Extended Reality** (including VR, MR, AR), **Accessibility** (including Situationally-Induced Impairments and Disabilities), and **Biomechanical Modelling** -- with a special focus on **Encumbrance and Walking in Mixed Reality** and **Shoulder Fatigue Model**. I have published in top-tier venues such as **CHI**, **UIST**, and **IMWUT/UbiComp**, and received **Best Paper Honourable Mention award at CHI**.
 
