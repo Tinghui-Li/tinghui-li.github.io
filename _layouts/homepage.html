@@ -128,7 +128,11 @@
         <a class="image avatar"><img src="./assets/img/Tinghui_Image.jpg" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1>
+          {{ site.display_name_en }}
+          <br>
+          <span class="chinese-name">{{ site.display_name_zh }}</span>
+        </h1>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>

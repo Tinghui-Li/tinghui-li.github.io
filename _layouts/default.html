@@ -42,6 +42,26 @@
     <link rel="stylesheet" href="../assets/css/pub.css">
     <link rel="stylesheet" href="../assets/css/nav.css">
     
+    <link rel="stylesheet" href="./assets/css/nav.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500&display=swap" rel="stylesheet">
+
+    <style>
+      .chinese-name {
+        font-family: 'Noto Serif SC', serif;
+        font-weight: 500;
+        /* * 使用 'em' 单位可以让中文字体大小相对于英文名
+         * (0.85em = 英文名的 85% 大小)。
+         * 你可以随意调整这个数值，比如 0.8em 或 0.9em。
+        */
+        font-size: 0.85em; 
+      }
+    </style>
+
+    <link rel="stylesheet" href="https://cdn.brand.illinois.edu/illinois.css">
+
     <script src="../assets/js/github-stars.js"></script>
     <script type="text/javascript" src="../assets/js/jquery.js"></script>
     <!-- <script src="../assets/js/favicon-switcher.js" type="application/javascript"></script> -->
@@ -123,7 +143,11 @@
         <a class="image avatar"><img src="../assets/img/Tinghui_Image.jpg" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
+        <h1>
+          {{ site.display_name_en }}
+          <br>
+          <span class="chinese-name">{{ site.display_name_zh }}</span>
+        </h1>
 
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
