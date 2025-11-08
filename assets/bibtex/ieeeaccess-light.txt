@@ -1,0 +1,10 @@
+@inproceedings{liu2025light,
+author = {Liu, Ruilin and Li, Tinghui and Sarsenbayeva, Zhanna},
+title = {Effects of Ambient Illumination and Screen Luminance on Mixed Reality Interaction},
+year = {2025},
+publisher = {IEEE},
+url = {https://doi.org/10.1109/ACCESS.2025.3631406},
+doi = {10.1109/ACCESS.2025.3631406},
+booktitle = {IEEE Access},
+series = {IEEE Access}
+}
