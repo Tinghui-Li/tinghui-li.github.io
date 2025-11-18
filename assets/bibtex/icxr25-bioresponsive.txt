@@ -1,0 +1,8 @@
+@article{peng2025bioresponsive,
+  title={Bioresponsive avatars: Perceiving emotions through virtual avatar representation in empathic social VR},
+  author={Peng, Danyang and Xia, Zicheng and Li, Tinghui and Wang, Yinxin and Armstrong, Mark and Skier{\'s}, Kinga and Kundu, Anish and Minamizawa, Kouta and Pai, Yun Suen},
+  journal={Computers \& Graphics},
+  pages={104474},
+  year={2025},
+  publisher={Elsevier}
+}
