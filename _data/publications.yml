@@ -42,7 +42,7 @@ main:
     authors: "<strong>Tinghui Li </strong> <img src='/assets/img/mail.png' alt='Corresponding Author' style='width: 10px; height: 10px; vertical-align: super;'>, Brandon Victor Syiem, Niels van Berkel, Juno Kim, Anusha Withana, Zhanna Sarsenbayeva"
     conference_short: OzCHI'25
     conference: The 37th Australian Conference on Human-Computer Interaction
-    pdf:
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3764687.3769922
     supp: /assets/supp/keywords.xlsx
     bibtex: /assets/bibtex/ozchi25-coword.txt
     page: https://doi.org/10.1145/3764687.3769922
@@ -52,7 +52,7 @@ main:
     authors: "<strong>Tinghui Li </strong> <img src='/assets/img/mail.png' alt='Corresponding Author' style='width: 10px; height: 10px; vertical-align: super;'>, Pamuditha Somarathne, Zhanna Sarsenbayeva, Anusha Withana"
     conference_short: OzCHI'25
     conference: The 37th Australian Conference on Human-Computer Interaction
-    pdf:
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3764687.3769915
     supp: https://dl.acm.org/doi/10.1145/3764687.3769915#supplementary-materials
     bibtex: /assets/bibtex/ozchi25-neverlagging.txt
     page: https://doi.org/10.1145/3764687.3769915
@@ -62,7 +62,7 @@ main:
     authors: "<strong>Tinghui Li </strong> <img src='/assets/img/mail.png' alt='Corresponding Author' style='width: 10px; height: 10px; vertical-align: super;'>, Guangzheng Zhang, Zhanna Sarsenbayeva"
     conference_short: OzCHI'25
     conference: The 37th Australian Conference on Human-Computer Interaction
-    pdf:
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3764687.3769913
     video: https://dl.acm.org/doi/10.1145/3764687.3769913#supplementary-materials
     bibtex: /assets/bibtex/ozchi25-sobo.txt
     page: https://doi.org/10.1145/3764687.3769913
@@ -72,7 +72,7 @@ main:
     authors: Ruilin Liu, <strong>Tinghui Li</strong>, Zhanna Sarsenbayeva
     conference_short: OzCHI'25
     conference: The 37th Australian Conference on Human-Computer Interaction
-    pdf:
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3764687.3769905
     bibtex: /assets/bibtex/ozchi25-light.txt
     page: https://doi.org/10.1145/3764687.3769905
     image: /assets/teaser/ambient_light_review.png
