@@ -20,6 +20,7 @@
   <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2025/">OzCHI '25</a>)</li>
   <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2024/">OzCHI '24</a>)</li>
   <li>[Reviewer] The Augmented Humans (AHs) International Conference (<a href="https://augmented-humans.org/">AHs '24</a>)</li>
+  <li>[Student Volunteer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2025/">OzCHI '25</a>)</li>
   <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://www.ieeeismar.net/2025/">ISMAR '25</a>)</li>
   <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://ismar2023.vgtc.org/">ISMAR '23</a>)</li>
   <li>[Student Volunteer] International Conference on Very Large Databases (<a href="https://vldb.org/2022/">VLDB '22</a>)</li>

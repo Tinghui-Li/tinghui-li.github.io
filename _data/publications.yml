@@ -32,10 +32,9 @@ main:
     conference_short: IMWUT (UbiComp '26)
     conference: ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
     pdf: /assets/pdf/imwut25-noise.pdf
-    code:
+    supp: https://dl.acm.org/doi/abs/10.1145/3770715#supplementary-materials
     bibtex: /assets/bibtex/imwut-noise.txt
-    data:
-    page:
+    page: https://doi.org/10.1145/3770715
     image: /assets/teaser/ambient_noise.png
 
   - title: "Trends and Directions of Extended Reality Research in HCI: A Co-Word Analysis"

@@ -142,8 +142,8 @@
 
 <ul style="margin:0 0 5px;">
   <li><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
-  <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (Honours), University of Sydney, Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (Honours), University of Sydney, Co-supervisor</li>
+  <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>:2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/jennifer-lai-21926a293/"><autocolor><strong><u>Jennifer Lai</u></strong></autocolor></a>: 2023 Summer Vacation Research Intern, University of Sydney, Co-supervisor</li>
@@ -160,6 +160,7 @@
   <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2025/">OzCHI '25</a>)</li>
   <li>[Reviewer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2024/">OzCHI '24</a>)</li>
   <li>[Reviewer] The Augmented Humans (AHs) International Conference (<a href="https://augmented-humans.org/">AHs '24</a>)</li>
+  <li>[Student Volunteer] Australian Conference on Human-Computer Interaction (<a href="https://www.ozchi.org/2025/">OzCHI '25</a>)</li>
   <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://www.ieeeismar.net/2025/">ISMAR '25</a>)</li>
   <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://ismar2023.vgtc.org/">ISMAR '23</a>)</li>
   <li>[Student Volunteer] International Conference on Very Large Databases (<a href="https://vldb.org/2022/">VLDB '22</a>)</li>
