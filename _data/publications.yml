@@ -133,7 +133,7 @@ main:
   #   image: /assets/teaser/walking.png
   #   notes:
 
-  - title: "Understanding the Effects of Interactivity on Emotional Experiences in VR"
+  - title: "Understanding the Effects of Interaction on Emotional Experiences in VR"
     authors: Zheyuan Kuang, <strong>Tinghui Li</strong>, Weiwei Jiang, Sven Mayer, Flora Salim, Benjamin Tag, Anusha Withana, Zhanna Sarsenbayeva
     conference_short: CHI'26
     conference: CHI Conference on Human Factors in Computing Systems, 2026.

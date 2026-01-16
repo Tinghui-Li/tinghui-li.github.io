@@ -16,7 +16,7 @@
 
 {% for group in grouped_pubs %}
 
-  <h3 style="margin: 60px 0px 10px;">{{ group.name }}</h3>
+  <h3 style="margin: 30px 0px 10px;">{{ group.name }}</h3>
 
   <ol class="bibliography">
     {% for link in group.items %}
