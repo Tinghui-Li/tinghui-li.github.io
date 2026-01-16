@@ -2,6 +2,7 @@
 
 <ul>
 
+<li><strong>[Sep 2025]</strong> I have two second-author papers accepted to CHI'26. </li>
 <li><strong>[Jan 2026]</strong> My co-supervised Honours student, Ruilin (Rocky) Liu, has graduated with First-Class Honours and was awarded the University Medal (ranked 1st in cohort). Congratulations Rocky! </li>
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
