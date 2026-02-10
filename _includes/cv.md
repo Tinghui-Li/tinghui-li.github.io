@@ -8,12 +8,12 @@
 
 <div style="height: 15px;"></div>
 
-<h4 style="margin:0 10px 0;">Doctor of Philosophy, <span class="no-tel">10/2023 – 03/2027</span></h4>
+<h4 style="margin:0 10px 0;">Doctor of Philosophy, <span class="no-tel">10/2023 – 12/2026</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>Supervisors:</strong> Dr. Zhanna Sarsenbayeva, A/Prof. Anusha Withana, Prof. Eduardo Velloso</li>
   <li><strong>Research Area:</strong> Human-Computer Interaction, Extended Reality, Accessibility</li>
-  <li><strong>Project Topic:</strong> Understanding and Modelling the Effects of Situationally-Induced Impairments and Disabilities in Extended Reality</li>
+  <li><strong>Project Topic:</strong> Understanding and Modelling the Effects of Situational Impairments in Mixed Reality</li>
   <li><strong>Scholarships:</strong> Tuition Fee Scholarship, Stipend Scholarship</li>
 </ul>
 
@@ -37,6 +37,19 @@
 </ul>
 
 <h2 style="margin: 60px 0px 10px;">Experiences</h2>
+
+<div style="height: 20px;"></div>
+
+<h3 style="margin:0 10px 0;">Dolby Laboratories, Inc.</h3>
+
+<div style="height: 15px;"></div>
+
+<h4 style="margin:0 10px 0;">PhD Research Intern, <span class="no-tel">05/2026 – 09/2026</span></h4>
+
+<ul style="margin:0 0 5px;">
+  <li><strong>Mentor:</strong> Dr. Jeroen Breebaart, Dr. Jeremy Stoddard</li>
+  <li><strong>Project Topic:</strong> Multimodal Context-Aware Mixed Reality System</li>
+</ul>
 
 <div style="height: 20px;"></div>
 
@@ -127,10 +140,11 @@
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
 
 <ul style="margin:0 0 5px;">
+  <li>2026 University of Sydney CS HDR Research Support Fund (A$5,000)</li>
   <li>2025 Deputy Vice-Chancellor Research Impact Proof-of-Concept Fund (A$79,874)</li>
   <li>2025 University of Sydney Faculty HDR Grant (A$800)</li>
   <li>2025 University of Sydney CS HDR Research Support Fund (A$5,000)</li>
-  <li>2023 – 2027 University of Sydney Faculty of Engineering Research Stipend Scholarship (A$40,109 p.a.)</li>
+  <li>2023 – 2027 University of Sydney Faculty of Engineering Research Stipend Scholarship (A$42,754 p.a.)</li>
   <li>2023 – 2027 University of Sydney International Tuition Fee Scholarship</li>
   <li>2023 University of Sydney Engineering Vacation Research Internship Program Scholarship (A$3,000)</li>
   <li>2023 University of Sydney Undergraduate High Honour Roll</li>
@@ -145,7 +159,7 @@
   <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>:2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/jennifer-lai-21926a293/"><autocolor><strong><u>Jennifer Lai</u></strong></autocolor></a>: 2023 Summer Vacation Research Intern, University of Sydney, Co-supervisor</li>
 </ul>
 

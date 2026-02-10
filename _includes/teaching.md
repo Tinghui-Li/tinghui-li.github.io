@@ -38,6 +38,6 @@
   <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>:2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/jennifer-lai-21926a293/"><autocolor><strong><u>Jennifer Lai</u></strong></autocolor></a>: 2023 Summer Vacation Research Intern, University of Sydney, Co-supervisor</li>
 </ul>
