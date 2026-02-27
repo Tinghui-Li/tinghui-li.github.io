@@ -25,16 +25,7 @@
       <div class="pub-row">
         <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
         {% if link.image %}
-          <img
-            src="{{ link.image }}"
-            class="teaser img-fluid z-depth-1"
-            loading="lazy"
-            decoding="async"
-            width="320"
-            height="180"
-            style="width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover;"
-            alt="Teaser for {{ link.conference_short }}: {{ link.title | strip_html | escape }}"
-          >
+          <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
         {% endif %}
           <abbr class="badge">{{ link.conference_short }}</abbr>
         </div>
