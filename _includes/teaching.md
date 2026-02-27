@@ -8,7 +8,7 @@
 
 <div style="height: 10px;"></div>
 
-<h4 style="margin:0 10px 0;">Casual Academic – Computer Science, <span class="no-tel">06/2023 – Present</span></h4>
+<h4 style="margin:0 10px 0;">Casual Academic – Computer Science, <span class="no-tel">06/2023 – 12/2025</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li>INFO3315 Human-Computer Interaction Teaching Assistant: 2024 S2</li>

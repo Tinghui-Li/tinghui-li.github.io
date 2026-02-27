@@ -57,7 +57,7 @@
 
 <div style="height: 15px;"></div>
 
-<h4 style="margin:0 10px 0;">Casual Academic – Computer Science, <span class="no-tel">06/2023 – Present</span></h4>
+<h4 style="margin:0 10px 0;">Casual Academic – Computer Science, <span class="no-tel">06/2023 – 12/2025</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li>INFO3315 Human-Computer Interaction Teaching Assistant and Tutor</li>
@@ -152,21 +152,12 @@
   <li>2021 University of Sydney Global Citizenship Award</li>
 </ul>
 
-<h2 style="margin: 60px 0px 10px;">Supervision</h2>
-
-<ul style="margin:0 0 5px;">
-  <li><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
-  <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (First-Class Honours), University of Sydney, Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
-  <li><a href="https://www.linkedin.com/in/jennifer-lai-21926a293/"><autocolor><strong><u>Jennifer Lai</u></strong></autocolor></a>: 2023 Summer Vacation Research Intern, University of Sydney, Co-supervisor</li>
-</ul>
-
-<h2 style="margin: 60px 0px 10px;">Activities</h2>
+<h2 style="margin: 60px 0px 10px;">Services</h2>
 
 <ul style="margin:0 0 5px;">
   <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
+  <li>[Reviewer] The ACM International Conference on Mobile Human-Computer Interaction (<a href="https://mobilehci.acm.org/2026/">MobileHCI '26</a>)</li>
+  <li>[Reviewer] The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<a href="https://dl.acm.org/journal/imwut">IMWUT</a>)</li>
   <li>[Reviewer] The IEEE Conference on Virtual Reality and 3D User Interfaces (<a href="https://ieeevr.org/2026/">IEEE VR '26</a>)</li>
   <li>[Reviewer] CHI conference on Human Factors in Computing Systems (<a href="https://chi2026.acm.org/">CHI '26</a>)</li>
   <li>[Reviewer] International Conference on Extended Reality (<a href="https://icxr.net/2025/">ICXR '25</a>)</li>
@@ -178,4 +169,15 @@
   <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://www.ieeeismar.net/2025/">ISMAR '25</a>)</li>
   <li>[Student Volunteer] IEEE International Symposium on Mixed and Augmented Reality (<a href="https://ismar2023.vgtc.org/">ISMAR '23</a>)</li>
   <li>[Student Volunteer] International Conference on Very Large Databases (<a href="https://vldb.org/2022/">VLDB '22</a>)</li>
+</ul>
+
+<h2 style="margin: 60px 0px 10px;">Supervision</h2>
+
+<ul style="margin:0 0 5px;">
+  <li><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
+  <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/yingqi-wang-6706a125b/"><autocolor><strong><u>Yingqi Wang</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
+  <li><a href="https://www.linkedin.com/in/jennifer-lai-21926a293/"><autocolor><strong><u>Jennifer Lai</u></strong></autocolor></a>: 2023 Summer Vacation Research Intern, University of Sydney, Co-supervisor</li>
 </ul>
