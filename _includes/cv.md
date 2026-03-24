@@ -47,7 +47,7 @@
 <h4 style="margin:0 10px 0;">PhD Research Intern, <span class="no-tel">05/2026 – 09/2026</span></h4>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>Mentor:</strong> Dr. Jeroen Breebaart, Dr. Jeremy Stoddard</li>
+  <li><strong>Mentor:</strong> Dr. Jeroen Breebaart</li>
   <li><strong>Project Topic:</strong> Multimodal Context-Aware Mixed Reality System</li>
 </ul>
 
@@ -155,6 +155,7 @@
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
 <ul style="margin:0 0 5px;">
+  <li>[Session Chair] CHI conference on Human Factors in Computing Systems (<a href="https://chi2026.acm.org/">CHI '26</a>)</li>
   <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
   <li>[Reviewer] The ACM International Conference on Mobile Human-Computer Interaction (<a href="https://mobilehci.acm.org/2026/">MobileHCI '26</a>)</li>
   <li>[Reviewer] The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<a href="https://dl.acm.org/journal/imwut">IMWUT</a>)</li>
@@ -174,7 +175,7 @@
 <h2 style="margin: 60px 0px 10px;">Supervision</h2>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
+  <li><a href="https://scholar.google.com/citations?user=AcSDk90AAAAJ&hl=en&authuser=1&oi=ao"><autocolor><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
   <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>

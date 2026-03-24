@@ -2,6 +2,8 @@
 
 <ul>
 
+<li><strong>[Mar 2026]</strong> I will be attending CHI'26 as a paper author and session chair. Meet with me! </li>
+<li><strong>[Mar 2026]</strong> My co-supervised master's student, Lefan Lai, has received a PhD offer from the University of Auckland. Congratulations Lefan! </li>
 <li><strong>[Jan 2026]</strong> I have two second-author papers accepted to CHI'26. </li>
 <li><strong>[Jan 2026]</strong> My co-supervised Honours student, Ruilin (Rocky) Liu, has graduated with First-Class Honours and was awarded the University Medal (ranked 1st in cohort). Congratulations Rocky! </li>
 

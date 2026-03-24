@@ -12,6 +12,7 @@
 <h2 style="margin: 60px 0px 10px;">Services</h2>
 
 <ul style="margin:0 0 5px;">
+  <li>[Session Chair] CHI conference on Human Factors in Computing Systems (<a href="https://chi2026.acm.org/">CHI '26</a>)</li>
   <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
   <li>[Reviewer] The ACM International Conference on Mobile Human-Computer Interaction (<a href="https://mobilehci.acm.org/2026/">MobileHCI '26</a>)</li>
   <li>[Reviewer] The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<a href="https://dl.acm.org/journal/imwut">IMWUT</a>)</li>

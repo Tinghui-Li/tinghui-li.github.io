@@ -137,11 +137,11 @@ main:
     authors: Zheyuan Kuang, <strong>Tinghui Li</strong>, Weiwei Jiang, Sven Mayer, Flora Salim, Benjamin Tag, Anusha Withana, Zhanna Sarsenbayeva
     conference_short: CHI'26
     conference: CHI Conference on Human Factors in Computing Systems, 2026.
-    pdf:
+    pdf: https://arxiv.org/pdf/2603.02535
     code:
-    bibtex:
+    bibtex: /assets/bibtex/chi26-emotion.txt
     data:
-    page:
+    page: https://doi.org/10.48550/arXiv.2603.02535
     image: /assets/teaser/emotion.png
     notes:
     year: 2026
@@ -150,11 +150,11 @@ main:
     authors: Lefan Lai, <strong>Tinghui Li</strong>, Zhanna Sarsenbayeva, Brandon Syiem
     conference_short: CHI'26
     conference: CHI Conference on Human Factors in Computing Systems, 2026.
-    pdf:
+    pdf: https://arxiv.org/pdf/2602.18669
     code:
     bibtex: /assets/bibtex/chi26-search.txt
     data:
-    page:
+    page: https://doi.org/10.48550/arXiv.2602.18669
     image: /assets/teaser/spatial_regularity.png
     notes:
     year: 2026
@@ -167,7 +167,7 @@ main:
     code:
     bibtex: /assets/bibtex/arxiv26-survey.txt
     data:
-    page:
-    image: /assets/teaser/empty.png
+    page: http://dx.doi.org/10.2139/ssrn.6310739
+    image: /assets/teaser/survey.png
     notes:
     year: 2026

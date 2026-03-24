@@ -1,0 +1,15 @@
+@inproceedings{lai2026visual,
+author = {Kuang, Zheyuan and Li, Tinghui and Jiang, Weiwei and Mayer, Sven and Salim, Flora and Tag, Benjamin and Withana, Anusha and Sarsenbayeva, Zhanna},
+title = {Understanding the Effects of Interaction on Emotional Experiences in VR},
+year = {2026},
+isbn = {979-8-4007-2278-3/2026/04},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3772318.3790313},
+doi = {10.1145/3772318.3790313},
+abstract = {Virtual reality has been effectively used for eliciting emotions, yet most research focuses on the intensity of affective responses rather than on how interaction influences those experiences. To address this gap, we advance a validated VR emotion-elicitation dataset through two key extensions. First, we add a new high-arousal, high-valence scene and validate its effectiveness in a within-subject study (N=24). Second, we incorporate interactive elements into each scene, creating both interactive and non-interactive versions to examine the impact of interaction on emotional responses. We evaluate interaction through a multimodal approach combining subjective ratings and physiological signals to capture both conscious and unconscious affective responses. Our evaluation study (N=84) shows that interaction not only amplifies emotions but modulates them in context, supporting coping in negative scenes and enhancing enjoyment in positive scenes. These findings highlight the potential of scene-tailored interaction for different applications, where regulating emotions is as important as eliciting them.},
+booktitle = {Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems},
+keywords = {Human-Computer Interaction, Virtual Reality, Emotion Elicitation, Affective Interaction},
+location = {Barcelona, Spain},
+series = {CHI '26}
+}

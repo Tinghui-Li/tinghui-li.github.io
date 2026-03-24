@@ -1,7 +1,9 @@
-@inproceedings{li2026survey,
+@misc{li2026survey,
 author = {Li, Tinghui and Liu, Ruilin and Kim, Juno and Velloso, Eduardo and Withana, Anusha and Sarsenbayeva, Zhanna},
 title = {A Survey on Situational Impairments Research in Mixed Reality},
 year = {2026},
 abstract = {The integration of Mixed Reality into everyday life has expanded user interaction beyond controlled environments to dynamic scenarios such as shopping and commuting, which introduce situational impairments that challenge standard interaction paradigms. Following PRISMA guidelines, we systematically reviewed 109 papers and mapped situational impairments to four components: Understanding, Modelling, Sensing, and Adapting. We compare how impairments affect tasks and assess user experience using objective and subjective metrics. We also catalogue sensing and adaptation strategies that sustain MR usability across varied conditions. Finally, we provide guidance for ecologically valid evaluation and highlight opportunities for empirically grounded, replicable, and generalisable MR solutions.},
+url={http://dx.doi.org/10.2139/ssrn.6310739}, 
+doi = {10.2139/ssrn.6310739}, 
 keywords = {Surveys and overviews, Ubiquitous and mobile computing design and evaluation methods, Accessibility systems and tools, Accessibility technologies, Mixed / augmented reality, Situational Impairments, Accessibility, Ubiquitous Computing}
 }

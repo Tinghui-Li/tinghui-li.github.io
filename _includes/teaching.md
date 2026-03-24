@@ -34,7 +34,7 @@
 <h2 style="margin: 60px 0px 10px;">Supervision</h2>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
+  <li><a href="https://scholar.google.com/citations?user=AcSDk90AAAAJ&hl=en&authuser=1&oi=ao"><autocolor><strong>Lefan Lai</strong>: 2025 Master of Computer Science (Research Pathway), University of Sydney, Co-supervisor</li>
   <li><strong>Jingwei Lin</strong>: 2025 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/rocky-liu-1901982bb/"><autocolor><strong><u>Ruilin Liu</u></strong></autocolor></a>: 2025 Bachelor of Advanced Studies (First-Class Honours), University of Sydney, Co-supervisor</li>
   <li><a href="https://www.linkedin.com/in/vittoria-salim-6722b2186/"><autocolor><strong><u>Vittoria Salim</u></strong></autocolor></a>: 2024 Bachelor of Advanced Computing (First-Class Honours), University of Sydney, Co-supervisor</li>
