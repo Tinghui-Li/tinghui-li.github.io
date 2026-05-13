@@ -2,6 +2,7 @@
 
 <ul>
 
+<li><strong>[May 2026]</strong> I am excited to share that I've joined Dolby Laboratories (Australia) as a PhD Research Intern.</li>
 <li><strong>[May 2026]</strong> Our workshop proposal EverydayXR has been accepted at UbiComp/ISWC'26! Check the <a href="https://sites.google.com/view/everyday-xr/"><autocolor><u>EverydayXR website [actively updating]</u></autocolor></a> for submission and attendance details. </li>
 <li><strong>[Mar 2026]</strong> I will be attending CHI'26 as a paper author and session chair. Meet with me! </li>
 <li><strong>[Mar 2026]</strong> My co-supervised master's student, Lefan Lai, has received a PhD offer from the University of Auckland. Congratulations Lefan! </li>
