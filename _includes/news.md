@@ -4,13 +4,13 @@
 
 <li><strong>[May 2026]</strong> I am excited to share that I've joined Dolby Laboratories (Australia) as a PhD Research Intern.</li>
 <li><strong>[May 2026]</strong> Our workshop proposal EverydayXR has been accepted at UbiComp/ISWC'26! Check the <a href="https://sites.google.com/view/everyday-xr/"><autocolor><u>EverydayXR website [actively updating]</u></autocolor></a> for submission and attendance details. </li>
-<li><strong>[Mar 2026]</strong> I will be attending CHI'26 as a paper author and session chair. Meet with me! </li>
-<li><strong>[Mar 2026]</strong> My co-supervised master's student, Lefan Lai, has received a PhD offer from the University of Auckland. Congratulations Lefan! </li>
-<li><strong>[Jan 2026]</strong> I have two second-author papers accepted to CHI'26. </li>
-<li><strong>[Jan 2026]</strong> My co-supervised Honours student, Ruilin (Rocky) Liu, has graduated with First-Class Honours and was awarded the University Medal (ranked 1st in cohort). Congratulations Rocky! </li>
 
 <li> <a href="#" onclick="toggleVis(this); return false;">Show more</a> </li>
 <div id="newsmore" style="display:none">
+  <li><strong>[Mar 2026]</strong> I will be attending CHI'26 as a paper author and session chair. Meet with me! </li>
+  <li><strong>[Mar 2026]</strong> My co-supervised master's student, Lefan Lai, has received a PhD offer from the University of Auckland. Congratulations Lefan! </li>
+  <li><strong>[Jan 2026]</strong> I have two second-author papers accepted to CHI'26. </li>
+  <li><strong>[Jan 2026]</strong> My co-supervised Honours student, Ruilin (Rocky) Liu, has graduated with First-Class Honours and was awarded the University Medal (ranked 1st in cohort). Congratulations Rocky! </li>
   <li><strong>[Nov 2025]</strong> Our paper about quantifying the effects of ambient illumination and screen luminance in mixed reality is accepted to IEEE Access. Congratulations Ruilin! </li>
   <li><strong>[Sep 2025]</strong> Our paper about perceiving emotions through virtual avatar representation is conditionally accepted to ICXR'25 and recommended for publication in Computers & Graphics. </li>
   <li><strong>[Sep 2025]</strong> I have three first-author papers and one second-author paper accepted to OzCHI'25. </li>

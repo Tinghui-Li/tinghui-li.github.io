@@ -13,7 +13,13 @@
 
 <ul style="margin:0 0 5px;">
   <li>[Session Chair] CHI conference on Human Factors in Computing Systems (<a href="https://chi2026.acm.org/">CHI '26</a>)</li>
+  <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2026/">UbiComp/ISWC '26</a>)</li>
   <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
+  <li>[Reviewer] International Journal of Human–Computer Interaction (<a href="https://www.tandfonline.com/journals/hihc20">IJHCI</a>)</li>
+  <li>[Reviewer] The ACM Symposium on Spatial User Interaction (<a href="https://sui.acm.org/2026/">SUI '26</a>)</li>
+  <li>[Reviewer] The ACM Conference on Computer-Supported Coorporative Work and Social Computing (<a href="https://cscw.acm.org/2026/">CSCW '26</a>)</li>
+  <li>[Reviewer] The ACM Symposium on User Interface Software and Technology (<a href="https://uist.acm.org/2026/">UIST '26</a>)</li>
+  <li>[Reviewer] The IEEE International Symposium on Mixed and Augmented Reality (<a href="https://www.ieeeismar.net/2026/">ISMAR '26</a>)</li>
   <li>[Reviewer] The ACM International Conference on Mobile Human-Computer Interaction (<a href="https://mobilehci.acm.org/2026/">MobileHCI '26</a>)</li>
   <li>[Reviewer] The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<a href="https://dl.acm.org/journal/imwut">IMWUT</a>)</li>
   <li>[Reviewer] The IEEE Conference on Virtual Reality and 3D User Interfaces (<a href="https://ieeevr.org/2026/">IEEE VR '26</a>)</li>
