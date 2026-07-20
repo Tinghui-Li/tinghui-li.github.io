@@ -1,7 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-
+<li><strong>[Jul 2026]</strong> Our paper about embodied self-distancing for emotional support in virtual reality is accepted to TVCG! </li>
 <li><strong>[May 2026]</strong> I am excited to share that I've joined Dolby Laboratories (Australia) as a PhD Research Intern.</li>
 <li><strong>[May 2026]</strong> Our workshop proposal EverydayXR has been accepted at UbiComp/ISWC'26! Check the <a href="https://sites.google.com/view/everyday-xr/"><autocolor><u>EverydayXR website [actively updating]</u></autocolor></a> for submission and attendance details. </li>
 

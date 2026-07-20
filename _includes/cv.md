@@ -140,7 +140,8 @@
 <h2 style="margin: 60px 0px 10px;">Awards</h2>
 
 <ul style="margin:0 0 5px;">
-  <li>2026 University of Sydney CS HDR Research Support Fund (A$5,000)</li>
+  <li>2026 University of Sydney Postgraduate Research Support Scheme (A$3,500)</li>
+  <li>2026 University of Sydney CS HDR Research Support Fund (A$1,500)</li>
   <li>2025 Deputy Vice-Chancellor Research Impact Proof-of-Concept Fund (A$79,874)</li>
   <li>2025 University of Sydney Faculty HDR Grant (A$800)</li>
   <li>2025 University of Sydney CS HDR Research Support Fund (A$5,000)</li>
