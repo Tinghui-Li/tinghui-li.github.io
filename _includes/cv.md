@@ -8,7 +8,7 @@
 
 <div style="height: 15px;"></div>
 
-<h4 style="margin:0 10px 0;">Doctor of Philosophy, <span class="no-tel">10/2023 – 12/2026</span></h4>
+<h4 style="margin:0 10px 0;">Doctor of Philosophy, <span class="no-tel">10/2023 – 10/2026 (Tentative)</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>Supervisors:</strong> Dr. Zhanna Sarsenbayeva, A/Prof. Anusha Withana, Prof. Eduardo Velloso</li>
