@@ -215,11 +215,11 @@ main:
     authors: Jens Emil Grønbæk, Adélaïde Genay, Andrew Irlitti, Brandon Victor Syiem, Jarrod Knibbe, Emily Wong, Tiare Feuchtner, <strong>Tinghui Li</strong>, Zhongyi Bai, Eduardo Velloso
     conference_short: Foundations and Trends
     conference: Foundations and Trends
-    pdf:
+    pdf: /assets/pdf/fnt-grandchallenges.pdf
     code:
-    bibtex:
+    bibtex: /assets/bibtex/fnt26-grandchallenges.txt
     data:
-    page:
-    image: /assets/teaser/empty.png
+    page: https://doi.org/10.1108/FTHCI-08-2025-0109
+    image: /assets/teaser/fnt-grandchallenges.png
     notes:
     year: 2026

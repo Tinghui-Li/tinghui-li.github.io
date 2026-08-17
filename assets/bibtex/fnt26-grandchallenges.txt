@@ -1,0 +1,10 @@
+@article{gronbaek2026grand,
+  title={Grand challenges for distributed mixed reality collaboration: a research agenda},
+  author={Gr{\o}nb{\ae}k, Jens Emil and Genay, Ad{\'e}la{\"\i}de and Irlitti, Andrew and Syiem, Brandon Victor and Knibbe, Jarrod and Wong, Emily and Feuchtner, Tiare and Li, Tinghui and Bai, Zhongyi and Velloso, Eduardo},
+  journal={Foundations and Trends in Human-Computer Interaction},
+  volume={20},
+  number={1-2},
+  pages={1--78},
+  year={2026},
+  publisher={Emerald Publishing Limited}
+}
