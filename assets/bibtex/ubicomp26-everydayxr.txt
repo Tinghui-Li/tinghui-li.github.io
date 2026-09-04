@@ -1,0 +1,12 @@
+@inproceedings{li2026everydayxr,
+author = {Li, Tinghui and Li, Xiang and Tong, Adele and Peng, Danyang and Kuang, Zheyuan and Luo, Chu and Kim, Juno and Velloso, Eduardo and Withana, Anusha and Shen, Yiran and Sarsenbayeva, Zhanna},
+title = {EverydayXR: 1st Workshop on Situational, Contextual, and Environmental Constraints in XR},
+year = {2026},
+isbn = {979-8-4007-2533-3/2026/10},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3798063.3839751},
+doi = {10.1145/3798063.3839751},
+booktitle = {Companion of the 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp Companion '26), October 11--15, 2026, Shanghai, China},
+series = {UbiComp Companion '26}
+}

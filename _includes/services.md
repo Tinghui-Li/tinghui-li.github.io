@@ -13,6 +13,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>[Session Chair] CHI conference on Human Factors in Computing Systems (<a href="https://chi2026.acm.org/">CHI '26</a>)</li>
+  <li>[Program Committe Member] The International Conference on Human-Engaged Computing (<a href="https://www.ichec2026.com/en/">ICHEC '26, formerly known as "Chinese CHI"</a>)</li>
   <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2026/">UbiComp/ISWC '26</a>)</li>
   <li>[Review Committe Member] The ACM International Joint Conference on Pervasive and Ubiquitous Computing and the International Symposium on Wearable Computers (<a href="https://www.ubicomp.org/ubicomp-iswc-2025/">UbiComp/ISWC '25</a>)</li>
   <li>[Reviewer] International Journal of Human–Computer Interaction (<a href="https://www.tandfonline.com/journals/hihc20">IJHCI</a>)</li>

@@ -8,7 +8,7 @@
 
 <div style="height: 15px;"></div>
 
-<h4 style="margin:0 10px 0;">Doctor of Philosophy, <span class="no-tel">10/2023 – 10/2026 (Tentative)</span></h4>
+<h4 style="margin:0 10px 0;">Doctor of Philosophy, <span class="no-tel">10/2023 – Present</span></h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>Supervisors:</strong> Dr. Zhanna Sarsenbayeva, A/Prof. Anusha Withana, Prof. Eduardo Velloso</li>
@@ -24,7 +24,7 @@
 <ul style="margin:0 0 5px;">
   <li><strong>Major:</strong> Computer Science (First Class Honours)</li>
   <li><strong>Supervisor:</strong> A/Prof. Anusha Withana</li>
-  <li><strong>Project Topic:</strong> Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction</li>
+  <!-- <li><strong>Project Topic:</strong> Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction</li> -->
 </ul>
 
 <div style="height: 15px;"></div>
@@ -48,7 +48,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><strong>Mentor:</strong> Dr. Jeroen Breebaart</li>
-  <li><strong>Project Topic:</strong> Multimodal Context-Aware Mixed Reality System</li>
+  <!-- <li><strong>Project Topic:</strong> Multimodal Context-Aware Mixed Reality System</li> -->
 </ul>
 
 <div style="height: 20px;"></div>

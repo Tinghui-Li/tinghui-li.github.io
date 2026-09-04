@@ -191,7 +191,7 @@ main:
     conference: Companion of the 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing
     pdf:
     code:
-    bibtex:
+    bibtex: /assets/bibtex/ubicomp26-everydayxr.txt
     data:
     page: https://sites.google.com/view/everyday-xr/
     image: /assets/teaser/EverydayXR.png
@@ -207,7 +207,7 @@ main:
     bibtex: /assets/bibtex/ubicomp26-why.txt
     data:
     page:
-    image: /assets/teaser/empty.png
+    image: /assets/teaser/ubicomp26-workshop.png
     notes:
     year: 2026
 
@@ -215,7 +215,7 @@ main:
     authors: Jens Emil Grønbæk, Adélaïde Genay, Andrew Irlitti, Brandon Victor Syiem, Jarrod Knibbe, Emily Wong, Tiare Feuchtner, <strong>Tinghui Li</strong>, Zhongyi Bai, Eduardo Velloso
     conference_short: Foundations and Trends
     conference: Foundations and Trends
-    pdf: /assets/pdf/fnt-grandchallenges.pdf
+    pdf: /assets/pdf/fnt26-grandchallenges.pdf
     code:
     bibtex: /assets/bibtex/fnt26-grandchallenges.txt
     data:
