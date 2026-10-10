@@ -12,7 +12,7 @@
 
 <div class="publications">
 
-{% assign grouped_pubs = site.data.publications.main | group_by: "year" | sort: "name" | reverse %}
+{% assign grouped_pubs = site.data.publications.fmain | group_by: "year" | sort: "name" | reverse %}
 
 {% for group in grouped_pubs %}
 
