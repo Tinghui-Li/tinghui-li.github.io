@@ -159,7 +159,7 @@ fmain:
     notes:
     year: 2026
 
-  - title: <img src="../assets/img/Best_Paper.png" alt="icon" style="width:15px; height:15px; vertical-align:middle;"> CyberSelf: Embodied Self-Distancing for Emotional Support in Virtual Reality
+  - title: '<img src="../assets/img/Best_Paper.png" alt="icon" style="width:15px; height:15px; vertical-align:middle;"> CyberSelf: Embodied Self-Distancing for Emotional Support in Virtual Reality'
     authors: Bing Li, Yan Hu, <strong>Tinghui Li</strong>, Yinuo Zhang, Wen Ma, Yuanfeng Zhou, Yiran Shen
     conference_short: TVCG (ISMAR'26 Best Paper)
     conference: IEEE Transactions on Visualization and Computer Graphics (ISMAR'26 Best Paper)
