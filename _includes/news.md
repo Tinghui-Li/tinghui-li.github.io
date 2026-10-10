@@ -1,6 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Apr 2025]</strong> Our paper about embodied self-distancing for emotional support in virtual reality has been awarded <strong>Best Paper</strong> recognition at ISMAR'26! <img src="../assets/img/Best_Paper.png" alt="icon" style="width:15px; height:15px; vertical-align:middle;"></li>
 <li><strong>[Aug 2026]</strong> Our paper about grand challenges for distributed mixed reality collaboration is accepted to Foundations and Trends in Human-Computer Interaction! </li>
 <li><strong>[Jul 2026]</strong> Our paper about embodied self-distancing for emotional support in virtual reality is accepted to TVCG! </li>
 <li><strong>[May 2026]</strong> I am excited to share that I've joined Dolby Laboratories (Australia) as a PhD Research Intern.</li>
